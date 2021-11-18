@@ -17,11 +17,12 @@
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 
 ### Analytics ⚙️
+
   
-<!-- <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd" />
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=WilkneMaia" />
   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
-</p> -->
+</p>
   
 <p align="left">
 <a href="https://github.com/wilkneMaia">
@@ -29,6 +30,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkneMaia&layout=compact&langs_count=8&hide=HCL"/>
 </a>
 </p>
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
 ### Vamos nos conectar ? 🤝
 
