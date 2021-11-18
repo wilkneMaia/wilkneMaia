@@ -2,9 +2,12 @@
 
 ### Sou um Desenvolvedor de Software que mora no 🇧🇷 e trabalho na [RIP Serviços Industriais - uma empresa KAEFER](https://www.linkedin.com/company/ripservicosindustriais/).
 
+![Snake animation](https://github.com/wilkneMaia/wilkneMaia/blob/output/github-contribution-grid-snake.svg)
+
 ### Languages & Tools 🛠
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -18,7 +21,7 @@
 <!-- <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd" />
   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
-</p>   -->
+</p> -->
   
 <p align="left">
 <a href="https://github.com/wilkneMaia">
@@ -27,7 +30,7 @@
 </a>
 </p>
 
-### Let's connect ? 🤝
+### Vamos nos conectar ? 🤝
 
 <p align="left">
 <a href="https://www.linkedin.com/in/wilknemaia/"><img src="https://img.shields.io/badge/-wilknemaia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
