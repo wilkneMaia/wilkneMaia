@@ -8,7 +8,7 @@
 Hi, I'm Wilkne Maia
 
 I work at [RIP Serviços Industriais (KAEFER)](https://www.linkedin.com/company/ripservicosindustriais/) for the SiProd Project.
-I'm from Brazil and I live in Brazil.
+I'm from Brazil.
 
 #### Reach me on
 <p align="left">
