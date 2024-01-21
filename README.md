@@ -5,9 +5,9 @@
 <!-- ### Sou um Desenvolvedor de Software que mora no 🇧🇷 e trabalho na [RIP Serviços Industriais (KAEFER)](https://www.linkedin.com/company/ripservicosindustriais/). -->
 
 <!-- ![Snake animation](https://github.com/wilkneMaia/wilkneMaia/blob/output/github-contribution-grid-snake.svg) -->
-Hi, I'm Wilkne Maia
+# 🎲 Hi, I'm Wilkne Maia
 
-I work at [RIP Serviços Industriais (KAEFER)](https://www.linkedin.com/company/ripservicosindustriais/) for the SiProd Project.
+Greetings! Welcome to my GitHub repository. Here you will discover an assortment of solutions, experiments, and code snippets, primarily centered around the realm of technology, with a special focus on data-related endeavors.The projects I showcase here reflect my ongoing journey of learning and problem-solving. Each creation is a response to real-life challenges, and over time, they have evolved into valuable resources that I'm eager to share. I believe in the power of community, where sharing knowledge binds us together. My hope is that something you find here will prove useful in your own endeavors.Feel free to explore, share, comment, and provide feedback. Let's engage and build a thriving community together!
 I'm from Brazil.
 
 #### Reach me on
@@ -18,8 +18,9 @@ I'm from Brazil.
   <a href="mailto:wilknemaia@gmail.com"><img src="https://img.shields.io/badge/-wilknemaia@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
+___
 <!-- ### Languages & Tools 🛠 -->
-#### I mainly code using
+<!--#### I mainly code using
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=white)&nbsp;
 
@@ -38,9 +39,50 @@ I'm from Brazil.
 
 #### My toolbox includes
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp; -->
 
-#### Analytics
+### 🧰 Programming Languages and Tools
+    
+<a href="https://www.python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
+<a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></a>
+<a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></a>
+<a href="https://github.com/"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
+<a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
+
+
+<br>
+    
+#
+
+
+<details open>
+  <summary><h3>📦 Main Repos</h3></summary>
+  <p align="left">
+  </p>
+</details>  
+
+  
+<details open>
+  <summary><h3>📊 GitHub Stats</h3></summary>
+
+  <h3>💻 Profile Stats and 🔥 Streak</h3>
+  
+  <img alt="wilkneMaia's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=wilkneMaia&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/></a>  
+  <img alt="wilkneMaia's Streak Stats" src="https://streak-stats.demolab.com/?user=wilkneMaia&theme=tokyonight&hide_border=true" height="165px"/></a>
+  <br/>
+
+  <h3>💪 Contribution Graph (Last 30d)</h3>
+  <img alt="wilkneMaia's Activity Stats" src="https://github-readme-activity-graph.vercel.app/graph/?username=wilkneMaia&theme=tokyo-night&hide_border=true"/></a>
+  <br/>
+  
+  <h3>🦾 Contribution Graph (Last Year)</h3>
+  <img alt="wilkneMaia's Activity Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wilkneMaia&theme=tokyonight&hide_border=true"/></a>
+  <br>
+
+</details>  
+  
+
+<!-- #### Analytics
 
 <!-- <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=WilkneMaia" />
@@ -48,13 +90,13 @@ I'm from Brazil.
 </p>
    -->
    
-<p align="left">
+<!--  <p align="left">
 <a href="https://github.com/wilkneMaia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=wilkneMaia&count_private=true&show_icons=true"/>
 <!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=WilkneMaia" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkneMaia&layout=compact&langs_count=8&hide=HCL"/>
+ <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkneMaia&layout=compact&langs_count=8&hide=HCL"/>
 </a>
-</p>
+</p> -->
 
 <!-- <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" /> -->
 
