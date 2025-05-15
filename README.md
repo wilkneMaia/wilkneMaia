@@ -1,22 +1,22 @@
-# �� Olá, eu sou o Wilkne Maia
+# 👋 Olá, eu sou o Wilkne Maia
 
 🎲 Bem-vindo ao meu GitHub! Aqui reúno experimentos, soluções e estudos voltados principalmente para **Python** e **Análise de Dados**. Cada projeto é fruto de um desafio real ou de uma exploração de novas ferramentas. 
 
-## �� Sobre mim
+## 📚 Sobre mim
 
-- �� Atualmente trabalho na **RIP Serviços Industriais (KAEFER)**  
-- �� Me especializando em **Machine Learning**, **Ciência de Dados** e **Visualização de Dados**  
-- �� Busco colaborar em projetos de **Open Source** focados em Data Science  
-- �� Interesso-me por automação de processos, ETL e análise preditiva  
-- �� Como me encontrar:
-  - �� wilknemaia@gmail.com  
-  - �� [LinkedIn](https://bit.ly/3qNXHUN)  
-  - �� [StackOverflow](https://bit.ly/3CrCmm7)  
+- 🔭 Atualmente trabalho na **RIP Serviços Industriais (KAEFER)**  
+- 🌱 Me especializando em **Machine Learning**, **Ciência de Dados** e **Visualização de Dados**  
+- 👯 Busco colaborar em projetos de **Open Source** focados em Data Science  
+- 🤔 Interesso-me por automação de processos, ETL e análise preditiva  
+- 📫 Como me encontrar:
+  - 📧 wilknemaia@gmail.com  
+  - 🔗 [LinkedIn](https://bit.ly/3qNXHUN)  
+  - 💬 [StackOverflow](https://bit.ly/3CrCmm7)  
   - ✍️ [Medium](https://bit.ly/3HKsmIT)  
 
 ---
 
-## �� Tecnologias & Ferramentas
+## 🛠 Tecnologias & Ferramentas
 
 <p align="left">
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40px" /></a>
@@ -33,8 +33,8 @@
 
 ---
 
-## �� Principais Projetos
-****
+## 📦 Principais Projetos
+
 <details>
 <summary><strong>1. Análise Exploratória de Vendas</strong></summary>
 
@@ -70,7 +70,7 @@
 
 ---
 
-## �� Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=wilkneMaia&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
@@ -79,11 +79,11 @@
 
 ---
 
-## �� Vamos Conectar?
+## 🤝 Vamos Conectar?
 
 <p align="left">
   <a href="https://bit.ly/3qNXHUN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:wilknemaia@gmail.com"><img src="https://img.shields.io/badge/-E-mail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://bit.ly/3CrCmm7"><img src="https://img.shields.io/badge/-StackOverflow-D16f37?style=flat&logo=stackoverflow&logoColor=white"/></a>
   <a href="https://bit.ly/3HKsmIT"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white"/></a>
-</p>****
+</p>
