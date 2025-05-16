@@ -37,8 +37,10 @@
 
 ---
 
+## �� Formação
+
 <details>
-  <summary>📜 Certificações (clique para abrir)</summary>
+  <summary>📜 Certificados</summary>
 
   - Data Science with Python – Coursera  
   - Python for Data Analysis – DataCamp  
@@ -48,12 +50,14 @@
 
 ---
 
-<details>
-  <summary>🛣 Roadmap de Estudos (clique para abrir)</summary>
+## Planejamento
 
-  - Aprender **Big Data** (Spark, Hadoop)  
-  - Aprofundar em **Deep Learning** (TensorFlow / PyTorch)  
-  - Explorar **MLOps** (MLflow, DVC e CI/CD para modelos)  
+<details>
+  <summary>🛣 Roadmap</summary>
+
+  - Big Data (Spark, Hadoop)  
+  - Deep Learning (TensorFlow / PyTorch)  
+  - MLOps (MLflow, DVC e CI/CD para modelos)  
 
 </details>
 
