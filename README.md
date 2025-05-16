@@ -1,3 +1,5 @@
+<img src="github-banner.png"/>
+
 # 👋 Olá, eu sou o Wilkne Maia
 
 🚀 Bem-vindo ao meu GitHub! Aqui reúno experimentos, soluções e estudos voltados principalmente para **Python** e **Análise de Dados**. Cada projeto é fruto de um desafio real ou de uma exploração de novas ferramentas.
