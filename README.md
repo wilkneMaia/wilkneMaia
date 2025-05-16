@@ -35,54 +35,67 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40px"/>
 </p>
 
-## Certificações
+---
 
-- Data Science with Python – Coursera  
-- Python for Data Analysis – DataCamp  
-- Introdução ao Machine Learning – Udemy  
+<details>
+  <summary>📜 Certificações (clique para abrir)</summary>
+
+  - Data Science with Python – Coursera  
+  - Python for Data Analysis – DataCamp  
+  - Introdução ao Machine Learning – Udemy  
+
+</details>
 
 ---
 
-## Roadmap de Estudos
+<details>
+  <summary>🛣 Roadmap de Estudos (clique para abrir)</summary>
 
-- Aprender **Big Data** (Spark, Hadoop)  
-- Aprofundar em **Deep Learning** (TensorFlow / PyTorch)  
-- Explorar **MLOps** (MLflow, DVC, CI/CD para modelos)  
+  - Aprender **Big Data** (Spark, Hadoop)  
+  - Aprofundar em **Deep Learning** (TensorFlow / PyTorch)  
+  - Explorar **MLOps** (MLflow, DVC e CI/CD para modelos)  
+
+</details>
 
 ---
 
 ## Principais Projetos
 
 <details>
-<summary><strong>1. Análise Exploratória de Vendas</strong></summary>
+  <summary><strong>1. Análise Exploratória de Vendas</strong></summary>
 
-**Descrição:** Pipeline de ETL e EDA em Python para base de vendas de e-commerce.  
-- Pandas para manipulação de dados  
-- Matplotlib e Seaborn para visualizações  
-- Relatório interativo em Jupyter Notebook  
+  **Descrição:** Pipeline de ETL e EDA em Python para base de vendas de e-commerce.  
+  - Pandas  
+  - Matplotlib  
+  - Seaborn  
+  - Relatório interativo em Jupyter Notebook  
 
-🔗 [Repositório](#)  
+  �� [Repositório](https://github.com/wilkneMaia/SEU-REPO-EDA)
+
 </details>
 
 <details>
-<summary><strong>2. Previsão de Demanda com Machine Learning</strong></summary>
+  <summary><strong>2. Previsão de Demanda</strong></summary>
 
-**Descrição:** Modelagem preditiva usando regressão linear e Random Forest.  
-- Scikit-Learn e GridSearchCV  
-- Avaliação de métricas (RMSE, MAE, R²)  
+  **Descrição:** Modelagem preditiva com regressão linear e Random Forest.  
+  - Scikit-Learn  
+  - GridSearchCV  
+  - Métricas: RMSE, MAE, R²  
 
-🔗 [Repositório](#)  
+  �� [Repositório](https://github.com/wilkneMaia/SEU-REPO-DEMANDA)
+
 </details>
 
 <details>
-<summary><strong>3. Dashboard Interativo em Streamlit</strong></summary>
+  <summary><strong>3. Dashboard Streamlit</strong></summary>
 
-**Descrição:** Aplicação web para visualização de KPIs financeiros.  
-- Streamlit para front-end  
-- Conexão com PostgreSQL  
-- Deploy via Heroku  
+  **Descrição:** Aplicação web para visualização de KPIs financeiros.  
+  - Streamlit  
+  - PostgreSQL  
+  - Deploy via Heroku  
 
-🔗 [Repositório](#)  
+  �� [Repositório](https://github.com/wilkneMaia/SEU-REPO-STREAMLIT)
+
 </details>
 
 ---
